@@ -1,0 +1,8 @@
+yellow: #F9BF3F
+read : #EC5453
+purple : #A84CB8
+green light: #2FA499
+light blue : #2C98F0
+dark blue : #4054B2
+light light blue: #96CCF8
+gray:#F2F3F7;
