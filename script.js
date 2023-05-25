@@ -24,6 +24,7 @@ function change(id){
 function discard(id){
     let card  = document.getElementById(id)
     card.style.backgroundImage = `url('/imgs/${id}.png')`
+    card.style.backgroundColor = "#60adec"
 }
 
 
