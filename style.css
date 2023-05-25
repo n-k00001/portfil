@@ -234,32 +234,32 @@ body {
 }
 /*project cards*/
 #card1{
-    background-image: url('/imgs/card1.png');
+    background-image: url('./imgs/card1.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 #card2{
-    background-image: url('/imgs/card2.png');
+    background-image: url('./imgs/card2.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 #card3{
-    background-image: url('/imgs/card3.png');
+    background-image: url('./imgs/card3.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 #card4{
-    background-image: url('/imgs/card4.png');
+    background-image: url('./imgs/card4.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 #card5{
-    background-image: url('/imgs/card5.png');
+    background-image: url('./imgs/card5.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 #card6{
-    background-image: url('/imgs/card6.png');
+    background-image: url('./imgs/card6.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
